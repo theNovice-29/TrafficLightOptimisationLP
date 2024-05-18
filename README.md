@@ -15,7 +15,7 @@ Basic understanding of running Python scripts from the command line or an IDE.
 
 Files inside source code folder -> Source Codes folder
 
-TrafficOptimization.py
+### TrafficOptimization.py
 
 How to Run the Codes
 Using Command Line
@@ -24,7 +24,7 @@ Navigate to the directory containing the Python files.
 
 
 # To run the Traffic Optimization Program:
-python TrafficOptimization.py
+### python TrafficOptimization.py
 
 # Using an IDE
 Open your preferred IDE and set up a Python project.
