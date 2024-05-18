@@ -2,7 +2,7 @@
 # Optimization of Urban Traffic Flow Using Linear Programming
 
 # Overview
-This README provides instructions on how to compile and run python program that implement linear programming algorithm using linprog, a library of SciPY and uses other libraries of Python like NumPy and MatplotLib for Optimization of Urban Traffic Flow Using Linear Programming. The provided Python codes include a code for calculating optimsed waiting time for traffic lights and its visualization
+This provides instructions on how to compile and run python program that implement linear programming algorithm using linprog, a library of SciPY and uses other libraries of Python like NumPy and MatplotLib for Optimization of Urban Traffic Flow Using Linear Programming. The provided Python codes include a code for calculating optimsed waiting time for traffic lights and its visualization
 
 # Prerequisites
 Python 3.x installed on your machine.
